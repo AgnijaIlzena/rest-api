@@ -67,18 +67,8 @@
                     <th scope="col">Détails</th>
                 </tr>
             </thead>
-            <tbody>
-                <tr>
-                    <th scope="row">1</th>
-                    <td>
-                        <img class="w-25 rounded" src="https://fr.web.img3.acsta.net/c_224_335_50_50/pictures/21/12/22/15/08/4618712.jpg" alt="">
-                    </td>
-                    <td>Otto</td>
-                    <td>@mdo</td>
-                    <td>
-                        <a href="details.php?id=">Détails</a>
-                    </td>
-                </tr>
+            <tbody>               
+               <!-- fetch data (Built requete on Posteman ) -->
             </tbody>
         </table>
     </body>
